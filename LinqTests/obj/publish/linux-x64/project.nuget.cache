@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9nBGRIZ455WN0ATTUbHK9bt7NAXdMCWCXKgQzLtKcNshzt2BIrDY5hbUtEao3BXxAHPKpSK6dV7oYiN2k1rUZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\FunAndAction\\LinqTests\\LinqTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.9\\microsoft.netcore.app.host.linux-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

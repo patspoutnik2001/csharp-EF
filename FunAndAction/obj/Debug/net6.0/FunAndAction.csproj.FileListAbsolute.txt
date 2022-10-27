@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Debug\net6.0\FunAndAction.exe
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Debug\net6.0\FunAndAction.deps.json
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Debug\net6.0\FunAndAction.runtimeconfig.json
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Debug\net6.0\FunAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Debug\net6.0\FunAndAction.pdb
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.AssemblyInfo.cs
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\refint\FunAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.pdb
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\FunAndAction.genruntimeconfig.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Debug\net6.0\ref\FunAndAction.dll

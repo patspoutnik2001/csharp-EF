@@ -1,0 +1,15 @@
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Release\net6.0\FuncAndAction.exe
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Release\net6.0\FuncAndAction.deps.json
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Release\net6.0\FuncAndAction.runtimeconfig.json
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Release\net6.0\FuncAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\bin\Release\net6.0\FuncAndAction.pdb
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.AssemblyInfo.cs
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\refint\FuncAndAction.dll
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.pdb
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\FuncAndAction.genruntimeconfig.cache
+C:\Users\patry\source\repos\FunAndAction\FunAndAction\obj\Release\net6.0\ref\FuncAndAction.dll

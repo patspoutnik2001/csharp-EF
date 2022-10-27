@@ -1,0 +1,16 @@
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\LinqTests.exe
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\MOCK_DATA.json
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\LinqTests.deps.json
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\LinqTests.runtimeconfig.json
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\LinqTests.dll
+C:\Users\patry\source\repos\FunAndAction\LinqTests\bin\Release\net6.0\LinqTests.pdb
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.csproj.AssemblyReference.cache
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.AssemblyInfoInputs.cache
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.AssemblyInfo.cs
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.csproj.CoreCompileInputs.cache
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.dll
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\refint\LinqTests.dll
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.pdb
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\LinqTests.genruntimeconfig.cache
+C:\Users\patry\source\repos\FunAndAction\LinqTests\obj\Release\net6.0\ref\LinqTests.dll

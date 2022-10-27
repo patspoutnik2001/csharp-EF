@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fO1g+qs2ZgWgVr2vywEkzw2BGlXO544CblIEf8gZf+A2jzdQn5V6d1qoy5HJypglwXWQP3bs5MSWQaH64cIhyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\patry\\source\\repos\\csharp-EF\\FunAndAction\\FuncAndAction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\patry\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
